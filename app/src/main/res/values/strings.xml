@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginAppSqlite</string>
+    <string name="enter_emal_and_password">Enter Emal and Password</string>
+    <string name="email_address">email address</string>
+    <string name="password">password</string>
+    <string name="signup">Signup</string>
+</resources>
